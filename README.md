@@ -36,11 +36,4 @@ Já imaginou ter uma enciclopédia pessoal de atletas brasileiros na palma da su
 
 **#AtletasDoBrasil #Programação #JavaScript**
 
-**Observações:**
-
-* **Adapte à sua realidade:** Substitua as informações genéricas por detalhes específicos do seu projeto.
-* **Use emojis:** Eles deixam o README mais divertido e fácil de ler.
-* **Adicione imagens:** Uma imagem vale mais que mil palavras!
-* **Seja criativo:** Use a sua personalidade para criar um README único e interessante.
-
-**Lembre-se:** O README é a primeira impressão que alguém terá do seu projeto. Faça com que ela seja inesquecível!
+### Link: https://olimpiadas-virid-ten.vercel.app/
