@@ -1,4 +1,4 @@
-## Desvendendando Atletas - Imersão DEV
+## Desvendendando Atletas - Imersão Dev com Google Gemini
 
 ### **O que é esse negócio?**
 
